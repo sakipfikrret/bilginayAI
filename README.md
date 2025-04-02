@@ -10,6 +10,10 @@ Animated transitions
 
 Custom icons and buttons
 
+
+
+
+
 Advanced Turkish Support:
 
 Natural language processing optimization
@@ -19,6 +23,9 @@ Smart response templates
 Error management
 
 Emoji support
+
+
+
 
 Technical Specifications:
 
